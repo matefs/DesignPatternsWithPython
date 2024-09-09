@@ -1,4 +1,4 @@
-class ChevyVolt:
+class ChevyVolt(object):
     def start(self):
         print("Chevy Volt running with shocking power")
 
